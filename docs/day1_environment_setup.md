@@ -1,13 +1,11 @@
-根据你提供的截图和文档结构，我为你生成了完整的 Markdown 文件，并在适当的位置插入了图片引用。图片路径均假设为 `../images/day1/`，请确保实际文件名与引用一致（建议你按照之前的命名规范重命名图片文件）。
-
 ---
 
 # DBA技能验证项目 · 第一天  
 ## 环境基础与自动化验证  
 
-**日期**：2026年3月3日  
-**作者**：DBA Learner  
-**项目仓库**：[DBA-Skills-Portfolio](https://github.com/yourname/DBA-Skills-Portfolio)  
+**日期**：2026年2月12日  
+**作者**：wyq 
+**项目仓库**：[DBA-Skills-Portfolio](https://github.com/fallingsnow08/DBA-Portfolio2026_2_11)  
 
 ---
 
